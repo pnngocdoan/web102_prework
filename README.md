@@ -35,10 +35,11 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+I haven't touched HTML, CSS, and Javascript for a while so I had to look up a lot during the prework to refresh my memory. Sometimes my code didn't work, and I honestly had no idea what went wrong. Fortunately, I asked people on the Slack group and I got a lot of help. I also hadn't used Git before, thus I was struggling to push all the changes in my computer up to Github. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Ngoc Doan]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
